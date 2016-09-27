@@ -1,7 +1,7 @@
 # Truth Table generator
 
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)]
+![N|Solid](https://theblankthought.files.wordpress.com/2014/11/truth-table-1305673098_324_319.png)
 
 
 Using the theory behind the truth table , we can find all the possible variations of Resistors in parellel.You just need to type :
